@@ -1,6 +1,6 @@
-## add-02
+# add-02
 
-#- ***Alumno:*** BADEIGTS, Maximo
+- ***Alumno:*** BADEIGTS, Maximo
 
 - **Curso:** 5°1°
 
