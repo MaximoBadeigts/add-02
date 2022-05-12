@@ -1,6 +1,6 @@
 # add-02
 
-- **Alumno:** Dubal Agustin
+- ***Alumno:*** BADEIGTS, Maximo
 
 - **Curso:** 5°1°
 
